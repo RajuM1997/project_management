@@ -9,7 +9,7 @@ const ProjectHeader = ({ uniqueMembers }) => {
       <div className=" flex justify-between items-center px-6 py-2">
         <div>
           <div className="flex gap-1 relative">
-            {uniqueMembers.slice(0, 2).map((item) => (
+            {uniqueMembers?.slice(0, 2)?.map((item) => (
               <div
                 key={item}
                 className=" h-12 w-12 bg-slate-200 p-2 rounded-full flex justify-center items-center"
