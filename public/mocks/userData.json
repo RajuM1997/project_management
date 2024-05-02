@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "username": "John",
+    "email": "john@gmail.com"
+  },
+  {
+    "id": "2",
+    "username": "Jane",
+    "email": "jane@gmail.com"
+  },
+  {
+    "id": "3",
+    "username": "Alice",
+    "email": "alice@gmail.com"
+  },
+  {
+    "id": "4",
+    "username": "Bob",
+    "email": "bob@gmail.com"
+  },
+  {
+    "id": "5",
+    "username": "Charlie",
+    "email": "charlie@gmail.com"
+  },
+  {
+    "id": "6",
+    "username": "Diana",
+    "email": "diana@gmail.com"
+  },
+  {
+    "id": "7",
+    "username": "Eve",
+    "email": "eve@gmail.com"
+  },
+  {
+    "id": "8",
+    "username": "Frank",
+    "email": "frank@gmail.com"
+  },
+  {
+    "id": "9",
+    "username": "Grace",
+    "email": "grace@gmail.com"
+  },
+  {
+    "id": "10",
+    "username": "Hank",
+    "email": "hank@gmail.com"
+  }
+]
